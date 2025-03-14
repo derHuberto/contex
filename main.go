@@ -9,3 +9,4 @@ func main() {
 func test() {
 	fmt.Println("New Shit")
 }
+
